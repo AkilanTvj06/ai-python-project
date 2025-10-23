@@ -1,2 +1,2 @@
 # scikit-learn project
-Simple AI Python project demonstrating logistic regression classification using scikit-learn.
+Python project demonstrating logistic regression classification using scikit-learn.
